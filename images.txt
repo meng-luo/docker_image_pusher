@@ -1,4 +1,5 @@
 xhofe/alist:latest
+mlikiowa/napcat-docker:latest
 mzz2017/v2raya:latest
 linuxserver/qbittorrent:latest
 ghcr.io/estrellaxd/auto_bangumi:latest
