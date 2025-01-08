@@ -1,7 +1,7 @@
 xhofe/alist:latest
 mlikiowa/napcat-docker:latest
 mzz2017/v2raya:latest
-linuxserver/qbittorrent:latest
+superng6/qbittorrentee:latest
 ghcr.io/estrellaxd/auto_bangumi:latest
 docker.umami.is/umami-software/umami:mysql-latest
 adguard/adguardhome:latest
