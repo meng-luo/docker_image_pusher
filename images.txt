@@ -4,3 +4,6 @@ superng6/qbittorrentee:latest
 docker.umami.is/umami-software/umami:mysql-latest
 adguard/adguardhome:latest
 louislam/uptime-kuma:latest
+honmashironeko/arl-docker-all
+mongo:4.0.27
+rabbitmq:3.8.19-management-alpine
